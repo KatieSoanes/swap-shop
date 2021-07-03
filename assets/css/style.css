@@ -1,3 +1,30 @@
-body {
-    color:red
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,300&family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
 }
+
+body {
+    font-family: Open Sans, sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Open Sans, sans-serif;
+    text-transform: uppercase;
+    font-weight: bolder;
+    letter-spacing: 4px;
+    line-height: 40px;
+    color: #252525; 
+}
+
+#logo {
+    text-align: center;
+    color: #f66;
+    font-size: 290%;
+} 
