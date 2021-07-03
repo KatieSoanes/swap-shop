@@ -43,7 +43,7 @@ nav {
     height: 75px;
     line-height: 75px;
     padding: 0px 100px;
-    position: fixed;
+    position: relative;
     z-index: 1;
 } 
 
@@ -74,4 +74,10 @@ nav ul li a:hover {
     height: 600px;
     width: 100%;
     background-image: url(../images/homeimage.webp);
+}
+
+/* image to go with Our Story for aesthetics */
+
+#girls {
+    background-image: url(../images/girls.jpeg);
 }
