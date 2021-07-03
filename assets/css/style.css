@@ -9,7 +9,7 @@
 body {
     font-family: Open Sans, sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+    color: #e5b9a8;
     background-color: #394F8A;
 }
 
@@ -49,6 +49,7 @@ nav {
 
 nav ul {
     float: right;
+    display: flex;
 }
 
 nav ul li {
@@ -65,4 +66,12 @@ nav ul li a {
 
 nav ul li a:hover {
     color: #4A5FC1;  
+}
+
+/* home page image */
+
+#homeimage {
+    height: 600px;
+    width: 100%;
+    background-image: url(../images/homeimage.webp);
 }
