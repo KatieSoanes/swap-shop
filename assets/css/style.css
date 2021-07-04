@@ -224,3 +224,11 @@ nav ul li a:hover {
  #photos > img {
      width: 100%;
  }
+
+ /* styling of Event Page */
+
+#models {
+    padding: 0px;
+   max-width: 100%;
+   max-height: 100%;
+}
