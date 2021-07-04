@@ -125,3 +125,66 @@ nav ul li a:hover {
      margin: 1%;
      padding: 1%;
  }
+
+
+
+
+ /* Our Ethos page styling */
+
+ #whyswap {
+            text-align: center;
+    
+ }
+
+ #environment {
+                margin-left: auto;
+                margin-right: auto;
+                width: 50%;
+              }
+
+ #fish { 
+        float: right;
+        height: 400px;
+        width: 30%;
+        padding: 1%;
+ }
+
+ #money {
+         margin-left: auto;
+         margin-right: auto;
+        width: 50%;
+ }
+
+ #moneybank { 
+        float: left;
+        height: 400px;
+        width: 30%;
+        padding: 1%; 
+ }
+
+ #revitalise {
+               margin-left: auto;
+               margin-right: auto;
+               width: 50%;
+
+ }
+
+ #rail { 
+         float: right;
+         height: 400px;
+         width: 30%;
+         padding: 1%; 
+ }
+
+ #friends {
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+ }
+
+ #twofriends {
+    float: left;
+    height: 400px;
+    width: 30%;
+    padding: 1%; 
+ }
