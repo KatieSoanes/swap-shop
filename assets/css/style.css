@@ -89,17 +89,26 @@ nav ul li a:hover {
          padding: 3%; 
 }
 
+#ourstoryp {
+    padding: 2%;
+}
 
 
 
 /* location, adding event time and dates */
 
 #googlemap {
-    margin-right: auto;
-    margin-left: auto;
-    width: 70%;
-    height: 400px;
-    margin-top: 65px;
+    padding: 2%;
+    width: 50%;
+    max-height: fit-content;
+}
+
+#location {
+           float: right; 
+}
+
+#eventdetails {
+                float: right;
 }
 
 /* footer */
@@ -236,13 +245,13 @@ nav ul li a:hover {
           justify-content: center;
 }
 
-#cover-text, #cover-text h2 {
-    color: #e5b9a8; 
+#eventrules {
+              float: center;
 }
-
 #cover-text {
-    font-size: 130%;
-    float: center;
+              float: right;
+              padding-left: 2%;
+              color: #e5b9a8; 
 
 }
 
