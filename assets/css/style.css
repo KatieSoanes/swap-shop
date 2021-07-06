@@ -69,6 +69,7 @@ h1, h2
     height: 600px;
     width: 100%;
     background-image: url(../images/homeimage.webp);
+    background-repeat: no-repeat;
 }
 
 /* Move h1 heading, and style image to go with Our Story for aesthetics */
@@ -103,12 +104,12 @@ h1, h2
 
 #location 
 {
-    float: right; 
+    text-align: center;
 }
 
 #eventdetails 
 {
-    float: right;
+    
 }
 
 /* footer */
