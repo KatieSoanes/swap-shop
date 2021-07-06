@@ -25,7 +25,7 @@ h1, h2
     font-weight: bolder;
     letter-spacing: 4px;
     line-height: 40px;
-    color: #252525; 
+    color: #ffffff; 
 }
 
 #logo 
@@ -33,9 +33,15 @@ h1, h2
     text-align: center; 
     font-size: 280%;
     padding: 30px;
-    color: #b54dff;
+    color: #ffffff;
     letter-spacing: 15px;
+    text-decoration: none;
 } 
+
+#site-header 
+{
+    border-bottom: none;
+}
 
 /* navigation links */
 
