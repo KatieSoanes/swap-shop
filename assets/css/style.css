@@ -31,9 +31,10 @@ h1, h2
 #logo 
 {
     text-align: center; 
-    font-size: 290%;
+    font-size: 280%;
     padding: 30px;
-    color: #9cf6fb;
+    color: #b54dff;
+    letter-spacing: 15px;
 } 
 
 /* navigation links */
