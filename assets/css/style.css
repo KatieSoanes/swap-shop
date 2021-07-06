@@ -55,8 +55,8 @@ h1, h2
 .nav a
 {
     text-decoration: none;
-    color: #4A5FC1;
-    width: 100px;
+    color: #4a5fc1;
+    width: 100px; 
     display: block;
     padding: 15px;
     font-size: 22px;
@@ -95,21 +95,30 @@ h1, h2
 
 /* location, adding event time and dates */
 
-#googlemap 
+#div1 
 {
-    padding: 2%;
-    width: 50%;
-    max-height: fit-content;
+float: left;
+padding: 8px;
 }
 
-#location 
+#div2 
 {
+    float: left;
     text-align: center;
+    padding-left: 250px;
+    padding-top: 105px;
+    
+
 }
 
-#eventdetails 
-{
-    
+.blacktext
+{ 
+    color: #252525;
+    font-weight: bold;
+}
+
+#list {
+    list-style-type: none ;
 }
 
 /* footer */
