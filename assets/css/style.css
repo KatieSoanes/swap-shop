@@ -63,6 +63,10 @@ h1, h2
     font-size: 22px;
 }
 
+a:hover {
+   color: blueviolet;
+}
+
 /* home page image */
 
 #homeimage 
@@ -243,20 +247,27 @@ padding: 8px;
 
 #models 
 {
-    padding: 0px;
-    max-width: 100%;
-    max-height: 50%;
-    justify-content: center;
+    width: 50%;
+    background-repeat: none;
+}
+
+#models2 
+{
+    float: right;
+    width: 50%;
+    background-repeat: none;
 }
 
 #eventrules 
 {
-    float: center;
+    text-align: center;
+    padding-right: 180px;
+    padding-left: 0px;
 }
 #cover-text 
 {
     float: right;
-    padding-left: 2%;
+    padding: 30px;
     color: #e5b9a8; 
 
 }
