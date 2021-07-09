@@ -47,6 +47,64 @@ The reason I went for the imagery used is to capture the visitors attention. On 
 
 # TO DO ADD WIREFRAMES HERE OF LINKS TO MOBILE, TABLET ETC
 
+# FEATURES
+
+### Home Page
+1. Logo
+* The logo name is a key aspect to the website as it provides the user with the name of the company, getting your brand name out there (this is a crucial aspect for any business). 
+* For the user: Allows the user to know the name of the company. 
+For the company: Getting the company name out there
+
+1. Navigation Bar
+The Navigation bar is seen on all 5 pages of the website.
+Allows the user to easily navigate from page to page across all devices without having to revert back to the previous page via the back button (this line is taking from the README sample) 
+For the user: Prioritises information for the user that is easily accessible and simple to understand.
+For the company: Allows easy navigation and sections off pages to allow for specific information to be shared. 
+
+
+
+
+
+
+
+
+1.Landing Page image
+*A fashion image is used to emphasis a fashion event, the white and mustard clothing fit well with the colour theme. 
+*For the user: Allows the user to see this is a brand related to fashion. 
+*For the company: Emphasises a fashion event. 
+
+Our Story
+*This provides information about SWAP SHOP, what it is, how it works and why you would want to swap.
+*For the user: Allows the user to understand what SWAP SHOP is and a brief intro to how it works. 
+*For the company: Provides information about the brand. 
+
+The image beside our story of the 5 women, is a striking and powerful image, the clothing goes well with the theme scheme. 
+*For the user: Allows the user to see the female empowerment behind SWAP SHOP and that it is also a social event.
+*For the company: Shows girl power and a female owned brand.  
+
+1. Google map shows the location pin, makes it easily accessible to understand where the location is and to find it simply. 
+
+1. Location Date and Time: Provides necessary information for upcoming event details. 
+
+
+
+
+
+### Our Ethos 
+*Why Swap?
+*Images beside each section
+
+###Gallery
+*5 images on gallery wall
+
+###Event
+*Landing event page image repeated and mirrored
+*Event Rules
+
+###Sign Up 
+*Sign up form
+*Image of girl at clothing rail
+
 
 
 
@@ -90,6 +148,8 @@ https://www.youtube.com/watch?v=gvPyJ0rc944
 Images taken from: 
 * https://unsplash.com/
 * https://www.pexels.com 
+
+
 
 
 
