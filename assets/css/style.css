@@ -285,7 +285,17 @@ padding: 8px;
 {
     background-image: 100%;
     display: block;
+    position: center;
     margin-left: auto;
     margin-right: auto;
     
 }
+
+.signup-form
+{
+    position: left;
+    width: 400px;
+    height: 800px;
+    padding: 0px;
+}
+
