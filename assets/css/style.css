@@ -283,11 +283,10 @@ padding: 8px;
 
 #plantrails 
 {
-    background-image: 100%;
-    display: block;
-    position: center;
-    margin-left: auto;
-    margin-right: auto;
+    padding: 5%;
+    width: 100%;
+    background-repeat: no-repeat;
+    
     
 }
 
@@ -296,6 +295,8 @@ padding: 8px;
     position: left;
     width: 400px;
     height: 800px;
-    padding: 0px;
+    padding: 10px;
 }
+
+
 
