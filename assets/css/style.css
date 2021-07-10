@@ -38,6 +38,10 @@ h1, h2
     text-decoration: none;
 } 
 
+a:link 
+{
+    text-decoration: none; 
+}
 #site-header 
 {
     border-bottom: none;
