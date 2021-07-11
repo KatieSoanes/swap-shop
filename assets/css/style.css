@@ -165,7 +165,19 @@ padding: 8px;
     padding: 1%;
  }
 
+.footer-bottom
+{
+    background-color: #e5b9a8;
+    color: #4a5fc1;
+    width: 100vw;
+    padding: 0;
+    text-align: center;
+}
 
+.footer-bottom p
+{
+    word-spacing: 2px;
+}
 
 
  /* Our Ethos page styling */
