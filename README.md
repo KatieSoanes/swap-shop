@@ -14,10 +14,10 @@ The site is targeted at those interested in fashion, the environment and, as it 
 A brief intro to the website itself: 
 
 ## Home Page
-The home page provides information on what Swap Shop is (our story), when and where the event occurs (a google map embed). 
+The home page provides information on what Swap Shop is (our story), when and where the event occurs (a google map embed) and the time it takes place. 
 
 ## Our Ethos 
-Our Ethos shows the ethos of the brand and the importance of making environmentally friendly decisions and how we can all make a positive impact on the environment by attending a swap event. Our ethos goes into the reasoning behind
+Our Ethos shows the ethos of the brand and the importance of making environmentally friendly fashion decisions and how we can all make a positive impact on the environment by attending a swap event. Our ethos goes into the reasoning behind
 **why we should swap?**
 1. Environment
 1. Cost
@@ -168,25 +168,11 @@ Error 3: No heading is required for the Gallery page.
 
 I have kept the H1 tag as it fits contextually on the page. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Design
 **colour scheme**
+
+<img width="1431" alt="Screenshot 2021-07-11 at 21 18 25" src="https://user-images.githubusercontent.com/84447603/125208947-8e43b480-e28d-11eb-9db0-ebfa60d9ff7f.png">
+
 The three main colours used are blue, white and a red-orange shade. I felt these colours really compliment one another and the colours together have a very alluring effect. Blue is a naturally calming colour and it is soothing so it makes the user feel relaxed upon arrivial to the site. 
 
 # Typography 
@@ -196,8 +182,6 @@ Open Sans is used with a back up of Sans Serif (the reason for the backup: if fo
 Throughout the website there are an array of images all based around fashion for example catwalk fashion images, images of clothing rails and images of people who attended past events.
 The reason I went for the imagery used is to capture the visitors attention. On **our ethos** page, each picture reflects the topic being discussed for example cost and socialise with an image of a money bank and two friends. Images are easier to process than reading words of text so I feel the images really enhance the website and add a fashionable aspect. As John Medina said
 >Hear a piece of information, and three days later you’ll remember 10% of it. Add a picture, and you’ll remember 65%
-
-# TO DO ADD WIREFRAMES HERE OF LINKS TO MOBILE, TABLET ETC
 
 # FEATURES
 
@@ -213,14 +197,7 @@ Allows the user to easily navigate from page to page across all devices without 
 For the user: Prioritises information for the user that is easily accessible and simple to understand.
 For the company: Allows easy navigation and sections off pages to allow for specific information to be shared. 
 
-
-
-
-
-
-
-
-1.Landing Page image
+1. Landing Page image
 *A fashion image is used to emphasis a fashion event, the white and mustard clothing fit well with the colour theme. 
 *For the user: Allows the user to see this is a brand related to fashion. 
 *For the company: Emphasises a fashion event. 
