@@ -41,7 +41,7 @@ This page lets individuals sign up and register to participate in an upcoming ev
 1. As a first time user, I want to know more information about the event itself and how it works. 
 1. As a first time user, I want to know if it costs anything. 
 1. As a first time user, I want to know the benefits of swapping. 
-1. As a first time user, I want to know how to register for an upcoming event. 
+1. As a first time user, I want to know where to register for an upcoming event. 
 
 
 # Returning user
@@ -62,8 +62,69 @@ tablet.
 ### First time user
 
 1. As a first time user, I want to know what a Swap Shop event is. 
+* Our Story on the landing page, explains just that.
+<img width="628" alt="ourstoryscreen jpeg" src="https://user-images.githubusercontent.com/84447603/125202456-9559cb00-e26b-11eb-8144-0953f261f9be.png">
 
+2. As a first time user, I want to find out the location, date and time of upcoming events.
+* The location date and time shows relevant information for upcoming events.
+* The Google Map shows a pinned location.
 
+<img width="431" alt="Screenshot 2021-07-11 at 17 19 46" src="https://user-images.githubusercontent.com/84447603/125202628-4e200a00-e26c-11eb-8883-a26f806586ef.png">
+
+<img width="553" alt="Screenshot 2021-07-11 at 17 19 39" src="https://user-images.githubusercontent.com/84447603/125202610-3ba5d080-e26c-11eb-91db-03fa51cff529.png">
+
+ 3. As a first time user, I want to know more information about the event itself and how it works.
+* The event page shows all the information required.
+
+<img width="1261" alt="Screenshot 2021-07-11 at 17 34 28" src="https://user-images.githubusercontent.com/84447603/125202995-495c5580-e26e-11eb-803a-86ef47652a6e.png">
+
+4. As a first time user, I want to know if it costs anything. 
+* It is emphasised on the landing page in capital letters that the event is free. 
+
+<img width="305" alt="Screenshot 2021-07-11 at 17 40 41" src="https://user-images.githubusercontent.com/84447603/125203137-28e0cb00-e26f-11eb-86f9-d72d64765e47.png">
+
+*It is also reiterated on the event page.
+<img width="763" alt="Screenshot 2021-07-11 at 17 42 01" src="https://user-images.githubusercontent.com/84447603/125203180-56c60f80-e26f-11eb-944e-ab2d5f1b4c7f.png">
+
+5.  As a first time user, I want to know the benefits of swapping. 
+*The Our Ethos page provides imagery to compliment the list of reasons on why you should swap. 
+
+<img width="802" alt="Screenshot 2021-07-11 at 17 44 59" src="https://user-images.githubusercontent.com/84447603/125203309-c4723b80-e26f-11eb-87bc-9bb1dda5b948.png">
+
+6. As a first time user, I want to know where to register for an upcoming event. 
+* This is very easily laid out on the sign up page, the image is used to emphasise a clothing event and looking through a selection of clothing.
+
+<img width="423" alt="Screenshot 2021-07-11 at 17 48 55" src="https://user-images.githubusercontent.com/84447603/125203454-4eba9f80-e270-11eb-94d9-5d375d0a7c15.png">
+
+# Returning user
+1. As a returning user, I want to know dates of further upcoming events. 
+* This is once again explained on the landing page with location date and times. 
+<img width="431" alt="Screenshot 2021-07-11 at 17 19 46" src="https://user-images.githubusercontent.com/84447603/125202628-4e200a00-e26c-11eb-8883-a26f806586ef.png">
+
+2. As a returning user, I want to know the events opening time.
+3. As a returning user, I want to ensure the location is the same.
+Both of the above, the information wanted is located on the landing page and also the pin of the google map shows the location has not changed. 
+
+# Site Owner
+
+1. As a site owner, I want users to learn about Swap Shop (get the brand name spreading).
+* The brand name is centered on each of the five pages, the white text is a contrasting colour to the blue background, making it stand out.
+The image of the models backstage at a fashion show, immediatley makes you understand this brand is fashion related. The off white clothing being worn by the models, corresponds to the white Swap Shop logo making a simplistic correlation between the two. 
+<img width="1437" alt="Screenshot 2021-07-11 at 17 56 55" src="https://user-images.githubusercontent.com/84447603/125203695-70685680-e271-11eb-8345-2cde652d3c2d.png">
+
+2. As a site owner, I want users to be able to sign up for upcoming events.
+3. As a site owner, I want users to know the exact location of events. 
+4. As a site owner, I want users to know why swapping is a great alternative to fast fashion.
+Regarding all of the above statments, they have been covered within the user stories and returning user sections. 
+
+5. As a site owner, I want users to be able to view the website on different devices e.g. mobile,
+tablet.
+* This was done by applying responsive imagery to ensure the website looks well  on different screen sizes and improves performance across different sites. 
+* Example shown below the image of the girls on a regular laptop screen is on the right, but when shrunk down to a mobile size of 320px the image is above the title.
+
+<img width="1145" alt="Screenshot 2021-07-11 at 18 09 13" src="https://user-images.githubusercontent.com/84447603/125204036-21232580-e273-11eb-97f4-e3a0c23ef7fd.png">
+
+<img width="309" alt="Screenshot 2021-07-11 at 18 07 21" src="https://user-images.githubusercontent.com/84447603/125203984-e3be9800-e272-11eb-9d19-629d5433dde3.png">
 
 
 
