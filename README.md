@@ -159,6 +159,7 @@ https://designshack.net/articles/trends/best-website-color-schemes/
 https://stackoverflow.com/questions/5756440/aligning-google-map-with-text
 * Footer: Based on Love Running Project Code but I used different images
 footer images taken from: https://fontawesome.com/ 
+* Footer Copyright code: https://youtu.be/zdA3qZNH1vc 
 
 ### Our Ethos
 * Flowing image around a text:
