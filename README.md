@@ -127,6 +127,12 @@ tablet.
 <img width="309" alt="Screenshot 2021-07-11 at 18 07 21" src="https://user-images.githubusercontent.com/84447603/125203984-e3be9800-e272-11eb-9d19-629d5433dde3.png">
 
 
+# Validator Testing
+## Html Code 
+Tested code bye running it through:
+https://validator.w3.org/
+
+1. index.html 
 
 
 
