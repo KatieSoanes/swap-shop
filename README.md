@@ -1,4 +1,4 @@
-# TO DO - LINK HERE TO WEBSITE
+ # TO DO - LINK HERE TO WEBSITE
 
 # SWAP SHOP
 
@@ -40,22 +40,31 @@ This page lets individuals sign up and register to participate in an upcoming ev
 1. As a first time user, I want to find out the location, date and time of upcoming events.
 1. As a first time user, I want to know more information about the event itself and how it works. 
 1. As a first time user, I want to know if it costs anything. 
-1. As a first time user, I want to know  why swapping is important. 
+1. As a first time user, I want to know the benefits of swapping. 
+1. As a first time user, I want to know how to register for an upcoming event. 
 
 
 # Returning user
 1. As a returning user, I want to know dates of further upcoming events. 
 1. As a returning user, I want to know the events opening time. 
-1. As a returning user, I want to 
-1. As a returning user, I want
-1. As a returning user, I want
+1. As a returning user, I want to ensure the location is the same.
 
 # Site Owner
 1. As a site owner, I want users to learn about Swap Shop (get the brand name spreading).
 1. As a site owner, I want users to be able to sign up for upcoming events.
 1. As a site owner, I want users to know the exact location of events. 
-1.  
-1. 
+1. As a site owner, I want users to know why swapping is a great alternative to fast fashion.
+1. As a site owner, I want users to be able to view the website on different devices e.g. mobile,
+tablet.
+
+# Testing
+## User Stories
+### First time user
+
+1. As a first time user, I want to know what a Swap Shop event is. 
+
+
+
 
 
 
