@@ -319,10 +319,11 @@ padding: 8px;
 
 @media screen and  (max-width: 320px) {
 
+    /* Gallery */ 
     #photos {
         margin-bottom: 80px;
     }
-    
+
     #girls {
         width: 100%;
         height: 300px;
@@ -351,11 +352,18 @@ padding: 8px;
 }
 
 #googlemaps {
-    width: 50%;
-    margin: 0 auto;
-    padding: 0;
+    width: 300px;
+    height: 300px;
 }
 
+/* Sign up */
+
+#plantrails {
+    float: left;
+    padding: 0;
+    margin: 0 auto;
+    width: 300px;
+}
 }
 
 
