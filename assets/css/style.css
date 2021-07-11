@@ -212,42 +212,43 @@ padding: 8px;
  }
   
  /* Gallery page styling of images */
-
- #womanwithcoffee 
- {
-    width: 70%;
-
- }
-
- #friendgroup 
- {
-    width: 80%; 
- }
-
- #lookingatclothes 
- {
-    width: 90%;
- }
-
- #fourgirls 
- {
-    width: 60%;
- }
-
- #colourfulrail 
- {
-
-    width: 60%;
-
- }
-
- #photos 
- {
-    clear: both;
-    line-height: 0;
-    column-count: 2;
-    column-gap: 0px;
- }
+    
+    #womanwithcoffee 
+    {
+       width: 70%;
+   
+    }
+   
+    #friendgroup 
+    {
+       width: 80%; 
+    }
+   
+    #lookingatclothes 
+    {
+       width: 90%;
+    }
+   
+    #fourgirls 
+    {
+       width: 60%;
+    }
+   
+    #colourfulrail 
+    {
+   
+       width: 60%;
+       flex: 1;
+   
+    }
+   
+    #photos 
+    {
+       clear: both;
+       line-height: 0;
+       column-count: 2;
+       column-gap: 0px;
+    }
 
  #photos > img 
  {

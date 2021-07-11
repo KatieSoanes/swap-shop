@@ -33,9 +33,43 @@ The Event page provides information on the rules and how the actual event takes 
 ## Sign-Up 
 This page lets individuals sign up and register to participate in an upcoming event. 
 
+# User Stories
+
+# First time user
+1. As a first time user, I want to know what a Swap Shop event is. 
+1. As a first time user, I want to find out the location, date and time of upcoming events.
+1. As a first time user, I want to know more information about the event itself and how it works. 
+1. As a first time user, I want to know if it costs anything. 
+1. As a first time user, I want to know  why swapping is important. 
+
+
+# Returning user
+1. As a returning user, I want to know dates of further upcoming events. 
+1. As a returning user, I want to know the events opening time. 
+1. As a returning user, I want to 
+1. As a returning user, I want
+1. As a returning user, I want
+
+# Site Owner
+1. As a site owner, I want users to learn about Swap Shop (get the brand name spreading).
+1. As a site owner, I want users to be able to sign up for upcoming events.
+1. As a site owner, I want users to know the exact location of events. 
+1.  
+1. 
+
+
+
+
+
+
+
+
+
+
+
 # Design
 **colour scheme**
-The three main colours used are blue, white and a red-orange shade. I felt these colours really compliment one another and it also has a very alluring effect. 
+The three main colours used are blue, white and a red-orange shade. I felt these colours really compliment one another and the colours together have a very alluring effect. Blue is a naturally calming colour and it is soothing so it makes the user feel relaxed upon arrivial to the site. 
 
 # Typography 
 Open Sans is used with a back up of Sans Serif (the reason for the backup: if for any reason the font isn’t being imported correctly to the site). The reason this font was chosen is because it is very easily legible and aesthetically pleasing. 
