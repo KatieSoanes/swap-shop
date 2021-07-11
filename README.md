@@ -1,4 +1,4 @@
- # TO DO - LINK HERE TO WEBSITE
+on # TO DO - LINK HERE TO WEBSITE
 
 # SWAP SHOP
 
@@ -145,6 +145,7 @@ https://validator.w3.org/
 
 # Design
 **colour scheme**
+<img width="1431" alt="Screenshot 2021-07-11 at 21 18 25" src="https://user-images.githubusercontent.com/84447603/125208947-8e43b480-e28d-11eb-9db0-ebfa60d9ff7f.png">
 The three main colours used are blue, white and a red-orange shade. I felt these colours really compliment one another and the colours together have a very alluring effect. Blue is a naturally calming colour and it is soothing so it makes the user feel relaxed upon arrivial to the site. 
 
 # Typography 
