@@ -326,44 +326,40 @@ padding: 8px;
         margin: 0 auto;
     }
 
-}
-
-/* Large Devices, Wide Screens max-width 1200px */ 
-@media screen and  (max-width: 1200px) {
-    #girls {
-       width: 60%;
-       height: 600px;
-       margin: 0 auto;
-    }
-
-    #homeimage {
+    #location {
+        position: relative;
+        right: 150px;
         margin: 0 auto;
-        width: 100%;   
-    }
-
-    #div1 {
-        padding: 0px;
-        left: 0;
-        margin: 0 auto;
-        width: 40%;
-    }
-
-    #div2 {
-        float: left;
         padding: 0;
     }
+
+    #eventdetails
+    {
+        position: relative;
+        right: 150px;
+        margin: 0 auto;
+        padding: 0;
+    }
+#list {
+    position: relative;
+    right: 150px;
+    margin: 0 auto;
+    padding: 0;
 }
 
-/* Medium Devices, Desktops max-width :992px */
+#googlemaps {
+    width: 50%;
+    margin: 0 auto;
+    padding: 0;
+}
 
+/* Our Ethos */
 
+#yourwardrobe {
+    margin-bottom: 100px;
+}
 
-
-
-/*Small Devices, Tablets max-width: 768px */
-
-/*Extra Small Devices, Phones  480px*/ 
-
+}
 
 
 
