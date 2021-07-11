@@ -368,10 +368,59 @@ padding: 8px;
 
 @media only screen and (max-width: 600px) and (min-width: 321px) {
 
+
+    #location {
+        position: relative;
+        right: 150px;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    #eventdetails
+    {
+        position: relative;
+        right: 150px;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    #list {
+        position: relative;
+        right: 150px;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    #fourgirls {
+        margin-bottom: 100px;
+        padding: 0;
+    }
 }
 
-@media only screen and (max-width: 1024px) and (min-width: 6011px) {
+@media only screen and (max-width: 1024px) and (min-width: 601px) {
+    #location {
+        position: relative;
+        right: 150px;
+        margin: 0 auto;
+        padding: 0;
+    }
 
+    #eventdetails
+    {
+        position: relative;
+        right: 150px;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    #list {
+        position: relative;
+        right: 150px;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    
 }
 
 
