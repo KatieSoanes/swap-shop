@@ -9,7 +9,7 @@
 
 body 
 {
-    font-family: Open Sans, sans-serif;
+    font-family: 'Open Sans', 'sans-serif';
     height: 100%;
     font-weight: 300;
     color: #e5b9a8;
@@ -20,7 +20,7 @@ body
 
 h1, h2 
 {
-    font-family: Open Sans, sans-serif;
+    font-family: 'Open Sans', 'sans-serif';
     text-transform: uppercase;
     font-weight: bolder;
     letter-spacing: 4px;
@@ -272,15 +272,15 @@ padding: 8px;
 
 #models 
 {
-    width: 50%;
-    background-repeat: none;
+ width: 50%;
+ background-repeat: no-repeat;
 }
 
 #models2 
 {
     float: right;
     width: 50%;
-    background-repeat: none;
+    background-repeat: no-repeat;
 }
 
 #eventrules 
@@ -310,7 +310,6 @@ padding: 8px;
 
 .signup-form
 {
-    position: left;
     width: 400px;
     height: 800px;
     padding: 10px;

@@ -136,6 +136,11 @@ https://validator.w3.org/
 
 
 
+## CSS
+<img width="1423" alt="Screenshot 2021-07-12 at 10 44 52" src="https://user-images.githubusercontent.com/84447603/125266949-3ee99c80-e2fe-11eb-90b1-b5d918572bfe.png">
+
+
+
 
 
 
