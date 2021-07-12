@@ -299,7 +299,20 @@ padding: 8px;
 
 /* Sign up Page */
 
-#plantrails 
+/* Code inspired by Easy tutorials Youtube Video */ 
+.sign-up-form 
+{
+    width: 300px;
+    background: #e5b9a8;
+    padding: 150px;
+    margin: 8% auto 0;
+    text-align: center;
+    margin-bottom: 500px;
+    color: black;
+
+}
+
+/* #plantrails 
 {
     padding: 5%;
     width: 100%;
@@ -313,7 +326,7 @@ padding: 8px;
     width: 400px;
     height: 800px;
     padding: 10px;
-}
+} */
 
 /* Media Queries */
 

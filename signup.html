@@ -39,21 +39,24 @@
     </header>
     
     <section>
-        <div class="signup-form">
-        <!--here-->
-        <h2>Sign Up Form</h2>
+        <div class="sign-up-form">
+        <!--Signup form Code taken from Love Running Project (POST and action) and Youtube Tutorial "How to Make Signup Form Using
+        HTML and CSS Form in HTML and CSS-->
 
-        <form method="POST" action="">
+        <h1>Sign Up Form</h1>
+        <form class="signup-form" method="POST" action="https://formdump.codeinstitute.net/">
         <label for="fname" class="text-input">First Name</label>
+        <br>
         <input type="text" id="fname" name="first_name" required>
         <br>
         <label for="lname" class="text-input">Last Name</label>
-        <input class="text" name="last_name" type="text" id="lname" required>
-
         <br>
+        <input class="text" name="last_name" type="text" id="lname" required>
+        <br>
+        
         <label for="email" class="text-input">Email Address</label>
+        <br>
         <input type="email" id="email" name="email_address" required>
-
         <br>
         <label for="date">What date are you registering for?</label>
         <br>
@@ -67,10 +70,11 @@
         <label for="items" class="text-input">How many items do you have to Swap?</label>
         <input type="text" name="items" type="text" id="items" required>
         
-        <br>
+       
         <input type="submit"> 
-        <p>For more information, you can contact: infoswapshop@gmail.com</p>
-        <img id="plantrails" src="assets/images/plantrails_adobespark.jpeg" alt="woman looking at clothing rail with plant pots around">
+        <!--<p>For more information, you can contact: infoswapshop@gmail.com</p>--> 
+        <!--img id="plantrails" src="assets/images/plantrails_adobespark.jpeg" alt="woman 
+        looking at clothing rail with plant pots around"--> 
         </form>
         </div>
         </section>
