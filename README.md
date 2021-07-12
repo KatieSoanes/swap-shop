@@ -94,7 +94,8 @@ tablet.
 6. As a first time user, I want to know where to register for an upcoming event. 
 * This is very easily laid out on the sign up page, the image is used to emphasise a clothing event and looking through a selection of clothing.
 
-<img width="423" alt="Screenshot 2021-07-11 at 17 48 55" src="https://user-images.githubusercontent.com/84447603/125203454-4eba9f80-e270-11eb-94d9-5d375d0a7c15.png">
+ADDDDDDD NEW SCREEN SHOT
+
 
 # Returning user
 1. As a returning user, I want to know dates of further upcoming events. 
