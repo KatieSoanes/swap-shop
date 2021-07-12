@@ -100,7 +100,7 @@ ADDDDDDD NEW SCREEN SHOT
 # Returning user
 1. As a returning user, I want to know dates of further upcoming events. 
 * This is once again explained on the landing page with location date and times. 
-<img width="431" alt="Screenshot 2021-07-11 at 17 19 46" src="https://user-images.githubusercontent.com/84447603/125202628-4e200a00-e26c-11eb-8883-a26f806586ef.png">
+ADDD SCREEN
 
 2. As a returning user, I want to know the events opening time.
 3. As a returning user, I want to ensure the location is the same.
@@ -137,13 +137,9 @@ https://validator.w3.org/
 
 <img width="1135" alt="Screenshot 2021-07-11 at 20 48 00" src="https://user-images.githubusercontent.com/84447603/125208244-4f136480-e289-11eb-8717-5e85777c5f63.png">
 
-* The warning is invalid as I have the necessary headings in place: 
+* To fix: I added h2 elements to each section and made them invisible. 
 
-* 
-<img width="238" alt="Screenshot 2021-07-11 at 20 49 11" src="https://user-images.githubusercontent.com/84447603/125208351-a44f7600-e289-11eb-8ada-948d18ea72ae.png">
-
-* 
-<img width="350" alt="Screenshot 2021-07-11 at 20 49 34" src="https://user-images.githubusercontent.com/84447603/125208335-913ca600-e289-11eb-9b15-2a17cc40494c.png">
+<img width="1392" alt="Screenshot 2021-07-13 at 00 04 17" src="https://user-images.githubusercontent.com/84447603/125366417-e94cd880-e36d-11eb-9b45-d8cd5523bd83.png">
 
 2. ourethos.html
  * No Errors
@@ -153,13 +149,15 @@ https://validator.w3.org/
 
 <img width="1180" alt="Screenshot 2021-07-11 at 20 54 56" src="https://user-images.githubusercontent.com/84447603/125208465-73bc0c00-e28a-11eb-8c3c-b17bc70e4c6b.png">
 
-* Errors 1 and 2 : When I remove the space the images do not load therefore I have left the space in them.
-* Error 3: No heading is required for the Gallery page.
+* To fix: I renamed the images
+* I added h2 elements to each section and made them invisible. 
+
+<img width="1387" alt="Screenshot 2021-07-13 at 00 08 45" src="https://user-images.githubusercontent.com/84447603/125366695-8576df80-e36e-11eb-9749-6d43025ee34e.png">
 
 4. event.html 
 <img width="1212" alt="Screenshot 2021-07-11 at 20 59 56" src="https://user-images.githubusercontent.com/84447603/125208533-f8a72580-e28a-11eb-8b7e-415a418bd7e7.png">
 
-* I have kept the H1 tag as it fits contextually on the page.
+* I have kept the H1 tag as it fits contextually on the page. So I have left this warning. 
 
 # ADD SIGN UP AFTER POST IS FIXED HERE!
 
