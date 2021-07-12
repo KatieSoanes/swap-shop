@@ -189,21 +189,20 @@ Throughout the website there are an array of images all based around fashion for
 The reason I went for the imagery used is to capture the visitors attention. On **our ethos** page, each picture reflects the topic being discussed for example cost and socialise with an image of a money bank and two friends. Images are easier to process than reading words of text so I feel the images really enhance the website and add a fashionable aspect. As John Medina said
 >Hear a piece of information, and three days later you’ll remember 10% of it. Add a picture, and you’ll remember 65%
 
-# TO DO ADD WIREFRAMES HERE OF LINKS TO MOBILE, TABLET ETC
-
 # FEATURES
 
 ### Home Page
 1. Logo
 * The logo name is a key aspect to the website as it provides the user with the name of the company, getting your brand name out there (this is a crucial aspect for any business). 
 * For the user: Allows the user to know the name of the company. 
-For the company: Getting the company name out there
+* For the site owner: Getting the company name out there. 
 
 1. Navigation Bar
-The Navigation bar is seen on all 5 pages of the website.
-Allows the user to easily navigate from page to page across all devices without having to revert back to the previous page via the back button (this line is taking from the README sample) 
-For the user: Prioritises information for the user that is easily accessible and simple to understand.
-For the company: Allows easy navigation and sections off pages to allow for specific information to be shared. 
+
+* The Navigation bar is seen on all 5 pages of the website.
+* Allows the user to easily navigate from page to page across all devices without having to revert back to the previous page via the back button (this line is taking from the README sample) 
+* For the user: Prioritises information for the user that is easily accessible and simple to understand.
+* For the site owner : Allows easy navigation and sections off pages to allow for specific information to be shared. 
 
 
 
