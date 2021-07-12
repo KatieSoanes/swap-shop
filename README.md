@@ -134,6 +134,34 @@ https://validator.w3.org/
 
 1. index.html 
 
+<img width="1135" alt="Screenshot 2021-07-11 at 20 48 00" src="https://user-images.githubusercontent.com/84447603/125208244-4f136480-e289-11eb-8717-5e85777c5f63.png">
+
+* The warning is invalid as I have the necessary headings in place: 
+
+* 
+<img width="238" alt="Screenshot 2021-07-11 at 20 49 11" src="https://user-images.githubusercontent.com/84447603/125208351-a44f7600-e289-11eb-8ada-948d18ea72ae.png">
+
+* 
+<img width="350" alt="Screenshot 2021-07-11 at 20 49 34" src="https://user-images.githubusercontent.com/84447603/125208335-913ca600-e289-11eb-9b15-2a17cc40494c.png">
+
+2. ourethos.html
+ * No Errors
+<img width="1217" alt="Screenshot 2021-07-11 at 20 52 15" src="https://user-images.githubusercontent.com/84447603/125208383-e7114e00-e289-11eb-8440-1c97c395c072.png">
+
+3. gallery.html
+
+<img width="1180" alt="Screenshot 2021-07-11 at 20 54 56" src="https://user-images.githubusercontent.com/84447603/125208465-73bc0c00-e28a-11eb-8c3c-b17bc70e4c6b.png">
+
+* Errors 1 and 2 : When I remove the space the images do not load therefore I have left the space in them.
+* Error 3: No heading is required for the Gallery page.
+
+4. event.html 
+<img width="1212" alt="Screenshot 2021-07-11 at 20 59 56" src="https://user-images.githubusercontent.com/84447603/125208533-f8a72580-e28a-11eb-8b7e-415a418bd7e7.png">
+
+* I have kept the H1 tag as it fits contextually on the page.
+
+# ADD SIGN UP AFTER POST IS FIXED HERE!
+
 
 
 ## CSS
