@@ -1,4 +1,4 @@
-on # TO DO - LINK HERE TO WEBSITE
+ # TO DO - LINK HERE TO WEBSITE
 
 # SWAP SHOP
 
@@ -69,7 +69,8 @@ tablet.
 * The location date and time shows relevant information for upcoming events.
 * The Google Map shows a pinned location.
 
-<img width="431" alt="Screenshot 2021-07-11 at 17 19 46" src="https://user-images.githubusercontent.com/84447603/125202628-4e200a00-e26c-11eb-8883-a26f806586ef.png">
+
+<img width="475" alt="Screenshot 2021-07-13 at 03 43 38" src="https://user-images.githubusercontent.com/84447603/125381835-8880c880-e38c-11eb-8a6f-609f8e34a16b.png">
 
 <img width="553" alt="Screenshot 2021-07-11 at 17 19 39" src="https://user-images.githubusercontent.com/84447603/125202610-3ba5d080-e26c-11eb-91db-03fa51cff529.png">
 
@@ -87,20 +88,18 @@ tablet.
 <img width="763" alt="Screenshot 2021-07-11 at 17 42 01" src="https://user-images.githubusercontent.com/84447603/125203180-56c60f80-e26f-11eb-944e-ab2d5f1b4c7f.png">
 
 5.  As a first time user, I want to know the benefits of swapping. 
-*The Our Ethos page provides imagery to compliment the list of reasons on why you should swap. 
+* The Our Ethos page provides imagery to compliment the list of reasons on why you should swap. 
 
 <img width="802" alt="Screenshot 2021-07-11 at 17 44 59" src="https://user-images.githubusercontent.com/84447603/125203309-c4723b80-e26f-11eb-87bc-9bb1dda5b948.png">
 
 6. As a first time user, I want to know where to register for an upcoming event. 
-* This is very easily laid out on the sign up page, the image is used to emphasise a clothing event and looking through a selection of clothing.
+* This is very easily laid out on the sign up page, I wanted just the sign up form to stand alone as I think the simplisity really stands out.
 
-ADDDDDDD NEW SCREEN SHOT
-
+<img width="673" alt="Screenshot 2021-07-13 at 03 45 15" src="https://user-images.githubusercontent.com/84447603/125381978-c2ea6580-e38c-11eb-8fed-a87213400de1.png">
 
 # Returning user
 1. As a returning user, I want to know dates of further upcoming events. 
-* This is once again explained on the landing page with location date and times. 
-ADDD SCREEN
+* This is once again explained on the page above, it is on the landing page with location date and times. 
 
 2. As a returning user, I want to know the events opening time.
 3. As a returning user, I want to ensure the location is the same.
@@ -116,7 +115,7 @@ The image of the models backstage at a fashion show, immediatley makes you under
 2. As a site owner, I want users to be able to sign up for upcoming events.
 3. As a site owner, I want users to know the exact location of events. 
 4. As a site owner, I want users to know why swapping is a great alternative to fast fashion.
-Regarding all of the above statments, they have been covered within the user stories and returning user sections. 
+Regarding all of the above statements, they have been covered within the user stories and returning user sections. 
 
 5. As a site owner, I want users to be able to view the website on different devices e.g. mobile,
 tablet.
@@ -125,8 +124,7 @@ tablet.
 
 <img width="1145" alt="Screenshot 2021-07-11 at 18 09 13" src="https://user-images.githubusercontent.com/84447603/125204036-21232580-e273-11eb-97f4-e3a0c23ef7fd.png">
 
-<img width="309" alt="Screenshot 2021-07-11 at 18 07 21" src="https://user-images.githubusercontent.com/84447603/125203984-e3be9800-e272-11eb-9d19-629d5433dde3.png">
-
+<img width="348" alt="Screenshot 2021-07-13 at 03 50 49" src="https://user-images.githubusercontent.com/84447603/125382410-88cd9380-e38d-11eb-96c1-039a0525c7cd.png">
 
 # Validator Testing
 ## Html Code 
@@ -159,7 +157,11 @@ https://validator.w3.org/
 
 * I have kept the H1 tag as it fits contextually on the page. So I have left this warning. 
 
-# ADD SIGN UP AFTER POST IS FIXED HERE!
+5. signup.html
+
+<img width="1353" alt="Screenshot 2021-07-13 at 03 54 23" src="https://user-images.githubusercontent.com/84447603/125382693-08f3f900-e38e-11eb-8608-dfd0177957f3.png">
+
+* I have kept the H1 tag as it fits contextually on the page. So I have left this warning.
 
 
 
