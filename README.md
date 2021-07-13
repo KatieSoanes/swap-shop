@@ -1,8 +1,8 @@
- # TO DO - LINK HERE TO WEBSITE
+## View live project here: https://katiesoanes.github.io/swap-shop/signup.html 
 
 # SWAP SHOP
 
-# TO DO - PUT IMAGES OF EACH PAGE ON DIFF DEVICE SIZE 
+<img width="373" alt="Screenshot 2021-07-13 at 04 45 03" src="https://user-images.githubusercontent.com/84447603/125386980-1eb8ec80-e395-11eb-9ddd-fe4eb8c7cb0e.png">
 
 # Opening message: 
 **Swap Shop** is a fictitious company and website. Firstly, the premise behind a Swap Shop; it is an event where people gather and bring X number of clothing items typically there is a minimum item number you must bring for example 5, the items must be cleaned and in great condition. People swap their clothing items to take home another persons preloved items with no additional cost. 
@@ -183,6 +183,15 @@ https://validator.w3.org/
 ## Tested and altered to fit desktop screen
 To do this I tested on different browsers: incognito window, chrome, and safari. I also sent the link to my mobile device.
 
+# Lighthouse
+* mobile
+
+<img width="455" alt="Screenshot 2021-07-13 at 04 56 52" src="https://user-images.githubusercontent.com/84447603/125388113-d3074280-e396-11eb-8de2-8a9d42b11e3e.png">
+
+* desktop
+<img width="457" alt="Screenshot 2021-07-13 at 04 54 29" src="https://user-images.githubusercontent.com/84447603/125387898-80c62180-e396-11eb-988e-4dbd82bb1c29.png">
+
+
 
 # Wireframes
 
@@ -286,10 +295,21 @@ The reason I went for the imagery used is to capture the visitors attention. On 
 
 <img width="538" alt="Screenshot 2021-07-13 at 04 23 43" src="https://user-images.githubusercontent.com/84447603/125385292-21661280-e392-11eb-8eba-6b032f1419fe.png">
 
+# Technologies Used
+ # Languages Used
+* HTML
+* CSS
 
-
-
-
+# Frameworks, Libraries & Programs Used
+* Google Fonts:
+Google fonts were used to import the 'Open Sans' font into the style.css file which is used on all pages throughout the project.
+* Font Awesome:
+Font Awesome was used on all pages throughout the website to add icons for aesthetic purposes on the footer. 
+* Git: 
+Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+(quoted from samplereadme https://github.com/Code-Institute-Solutions/SampleREADME)
+* GitHub:
+* GitHub is used to store the projects code after being pushed from Git. (quoted from samplereadme https://github.com/Code-Institute-Solutions/SampleREADME)
 
 
 
