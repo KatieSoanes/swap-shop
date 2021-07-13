@@ -185,7 +185,15 @@ https://validator.w3.org/
 To do this I tested on different browsers: incognito window, chrome, and safari
 
 
+# Wireframes
 
+Below is a rough sketch I made to plan each page. 
+
+![home page](https://user-images.githubusercontent.com/84447603/125380025-7b160f00-e389-11eb-952d-ac32565a00d8.jpeg)
+
+![event and signup form](https://user-images.githubusercontent.com/84447603/125380020-79e4e200-e389-11eb-9606-297003991953.jpeg)
+
+![gallery and our ethos](https://user-images.githubusercontent.com/84447603/125380014-781b1e80-e389-11eb-8f73-29d13fc73ef7.jpeg) 
 
 # Design
 **colour scheme**
