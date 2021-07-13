@@ -314,12 +314,10 @@ padding: 8px;
 
 }
 
-
 /* Media Queries */
 
-@media screen and  (max-width: 320px) {
+@media all and  (max-width: 320px) {
 
-    /* Gallery */ 
     #photos {
         margin-bottom: 80px;
     }
@@ -328,10 +326,10 @@ padding: 8px;
         width: 100%;
         height: 300px;
         margin: 0 auto;
+        padding: 0;
     }
 
     #location {
-        position: relative;
         right: 150px;
         margin: 0 auto;
         padding: 0;
@@ -339,34 +337,63 @@ padding: 8px;
 
     #eventdetails
     {
-        position: relative;
         right: 150px;
         margin: 0 auto;
         padding: 0;
     }
 #list {
-    position: relative;
     right: 150px;
     margin: 0 auto;
     padding: 0;
 }
 
-#googlemap {
+#div2
+{
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+#googlemap 
+{
     width: 300px;
     height: 300px;
-}
-
-/* Sign up */
-
-#plantrails {
-    float: left;
-    padding: 0;
     margin: 0 auto;
-    width: 300px;
-}
+    padding: 0;
 }
 
-@media only screen and (max-width: 600px) and (min-width: 321px) {
+.sign-up-form 
+{
+    position: relative;
+    margin-bottom: 140px;
+    padding: 0;
+}
+
+#moneybank
+{
+    position: relative;
+    margin: 0;
+}
+
+#twofriends 
+{
+    position: relative;
+    margin: 0;  
+}
+
+#plants
+{
+    width: 319px;
+    padding: 0;
+}
+
+#moneybank
+{
+    width: 319px;
+    padding: 0;
+}
+
+
+@media all and (max-width: 600px) and (min-width: 321px) {
 
 
     #location {
@@ -404,7 +431,7 @@ padding: 8px;
 
 }
 
-@media only screen and (max-width: 1024px) and (min-width: 601px) {
+@media all and (max-width: 1024px) and (min-width: 601px) {
     #location {
         position: relative;
         right: 150px;
@@ -433,8 +460,3 @@ padding: 8px;
     }
     
 }
-
-
-
-
-
