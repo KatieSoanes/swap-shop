@@ -177,6 +177,12 @@ https://validator.w3.org/
 
 <img width="380" alt="Screenshot 2021-07-13 at 02 18 15" src="https://user-images.githubusercontent.com/84447603/125375303-bcee8780-e380-11eb-94f4-a40eacf9c154.png">
 
+## Tested and altered to fit IPAD screen
+
+<img width="384" alt="Screenshot 2021-07-13 at 03 07 32" src="https://user-images.githubusercontent.com/84447603/125378983-9e3fbf00-e387-11eb-8913-3e25e24f2b5f.png">
+
+## Tested and altered to fit desktop screen
+To do this I tested on different browsers: incognito window, chrome, and safari
 
 
 
