@@ -257,29 +257,34 @@ The reason I went for the imagery used is to capture the visitors attention. On 
 
 1. Location Date and Time: Provides necessary information for upcoming event details. 
 
-1. Our Ethos page
+2. Our Ethos page
 
 * Why Swap provides information on the benefits of one of our events and the images which go in a sequence from left to right really emphasise the words being spoken. 
+* For the user: Emphasises why they should swap and the benefits.
+* For the company: Shows the ethos behind the brand, spreads awareness of all the benefits.
 
 <img width="809" alt="Screenshot 2021-07-13 at 04 11 03" src="https://user-images.githubusercontent.com/84447603/125384136-5b361980-e390-11eb-88cc-588833567c4c.png">
 
+3. Gallery Page
+* The gallery wall shows images of past events, emphasising how fun the event is, that it is a social event and a fashion event.
 
+* For the user: Shows the user that the event is real and people from all walks of life can attend.
+* For the company: Promotes the event itself through imagery. 
 
+<img width="719" alt="Screenshot 2021-07-13 at 04 14 50" src="https://user-images.githubusercontent.com/84447603/125384485-e7484100-e390-11eb-9d91-cb106978d0e2.png">
 
-### Our Ethos 
-*Why Swap?
-*Images beside each section
+4. Event page
+* This shows the rules of the event and how it is run. On this page the landing image is mirrored as I thought it gave a great visual aesthetic.
+* For the user: Teaches them all the rules and gives an insight into the event.
+* For the company: As this page explains how the event works very simplistically it will help the company by already providing information needed to client without the client having to ask.
 
-###Gallery
-*5 images on gallery wall
+<img width="1418" alt="Screenshot 2021-07-13 at 04 20 12" src="https://user-images.githubusercontent.com/84447603/125385006-a3097080-e391-11eb-9021-d8d1e300657b.png">
 
-###Event
-*Landing event page image repeated and mirrored
-*Event Rules
+5. Sign Up form
+* For the user: Allows the user to sign up very easily for an upcoming event, the box is centered in the middle of the page and there is no distractions with unneccessary excess imagery on the page.
+* For the company: Allows the company to find out how many people will be at en upcoming event.
 
-###Sign Up 
-*Sign up form
-*Image of girl at clothing rail
+<img width="538" alt="Screenshot 2021-07-13 at 04 23 43" src="https://user-images.githubusercontent.com/84447603/125385292-21661280-e392-11eb-8eba-6b032f1419fe.png">
 
 
 
