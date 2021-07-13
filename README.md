@@ -168,8 +168,14 @@ https://validator.w3.org/
 
 
 
+# Testing Responsive Imagery
 
+## Tested and altered Media queries to fit Iphone 5/SE
+<img width="438" alt="Screenshot 2021-07-13 at 02 16 51" src="https://user-images.githubusercontent.com/84447603/125375288-b7913d00-e380-11eb-87cc-93863156c6e5.png">
 
+<img width="388" alt="Screenshot 2021-07-13 at 02 17 09" src="https://user-images.githubusercontent.com/84447603/125375298-ba8c2d80-e380-11eb-890c-24083deea5d7.png">
+
+<img width="380" alt="Screenshot 2021-07-13 at 02 18 15" src="https://user-images.githubusercontent.com/84447603/125375303-bcee8780-e380-11eb-94f4-a40eacf9c154.png">
 
 
 
