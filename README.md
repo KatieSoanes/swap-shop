@@ -300,11 +300,9 @@ https://www.rothelabel.com/ethos/
 * CSS Grid Responsive Image Gallery Tutorial:
 https://www.youtube.com/watch?v=gvPyJ0rc944
 
-
-### Event 
-
 ### Form
 * Based on Love Running Code for the form layout
+* Based on code of "How To Make Signup Form Using HTML And CSS | Create Sign Up Form In HTML CSS" Youtube video https://youtu.be/lacpTQuE9u8 
 
 ## Media 
 
