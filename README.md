@@ -311,7 +311,15 @@ Git was used for version control by utilizing the Gitpod terminal to commit to G
 * GitHub:
 * GitHub is used to store the projects code after being pushed from Git. (quoted from samplereadme https://github.com/Code-Institute-Solutions/SampleREADME)
 
+# Known Bugs
+* When I send the link to my mobile device there is a gap on the right hand side of the screen on the home page with spacing and as a result not all the text lines up correctly.
+* On my mobile device the gallery page the end images are slightly cut off.
+* On my mobile device the sign up form is not centered with gapping on the right hand side.
+* I am unsure why this has happened as upon inspection it fits perfectly on an iphone se and my Lighthouse score is very high.
 
+# Future ideas to implement on site
+* Add a fun fashion quiz to get people more involved and interact online.
+* Add another page where images of popular clothing items are included for example high waisted jeans, this would show what items are very popular and aid people to actually make a swap on the day. 
 
 # CREDIT
 
