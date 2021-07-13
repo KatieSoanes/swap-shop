@@ -1,4 +1,4 @@
-## View live project here: https://katiesoanes.github.io/swap-shop/signup.html 
+## View live project here: https://katiesoanes.github.io/swap-shop/index.html
 
 # SWAP SHOP
 
