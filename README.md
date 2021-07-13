@@ -163,16 +163,13 @@ https://validator.w3.org/
 
 * I have kept the H1 tag as it fits contextually on the page. So I have left this warning.
 
-
-
 ## CSS
 <img width="1423" alt="Screenshot 2021-07-12 at 10 44 52" src="https://user-images.githubusercontent.com/84447603/125266949-3ee99c80-e2fe-11eb-90b1-b5d918572bfe.png">
 
 
-
 # Testing Responsive Imagery
 
-## Tested and altered Media queries to fit Iphone 5/SE
+## Tested and altered Media queries to fit Iphone
 <img width="438" alt="Screenshot 2021-07-13 at 02 16 51" src="https://user-images.githubusercontent.com/84447603/125375288-b7913d00-e380-11eb-87cc-93863156c6e5.png">
 
 <img width="388" alt="Screenshot 2021-07-13 at 02 17 09" src="https://user-images.githubusercontent.com/84447603/125375298-ba8c2d80-e380-11eb-890c-24083deea5d7.png">
@@ -205,10 +202,14 @@ The three main colours used are blue, white and a red-orange shade. I felt these
 # Typography 
 Open Sans is used with a back up of Sans Serif (the reason for the backup: if for any reason the font isn’t being imported correctly to the site). The reason this font was chosen is because it is very easily legible and aesthetically pleasing. 
 
+<img width="612" alt="Screenshot 2021-07-13 at 03 59 50" src="https://user-images.githubusercontent.com/84447603/125383096-cb43a000-e38e-11eb-9a0c-706b1fb94d67.png">
+
 # Imagery 
-Throughout the website there are an array of images all based around fashion for example catwalk fashion images, images of clothing rails and images of people who attended past events.
-The reason I went for the imagery used is to capture the visitors attention. On **our ethos** page, each picture reflects the topic being discussed for example cost and socialise with an image of a money bank and two friends. Images are easier to process than reading words of text so I feel the images really enhance the website and add a fashionable aspect. As John Medina said
+Throughout the website there are an array of images all based around fashion for example catwalk fashion images, images of clothing rails and images of people who attended "past events".
+The reason I went for the imagery used is to capture the visitors attention. On **our ethos** page, each picture reflects the topic being discussed for example cost with an image of a money bank to reflect savings. Images are easier to process than reading words of text so I feel the images really enhance the website and add a fashionable aspect. As John Medina said
 >Hear a piece of information, and three days later you’ll remember 10% of it. Add a picture, and you’ll remember 65%
+
+<img width="802" alt="Screenshot 2021-07-13 at 04 01 32" src="https://user-images.githubusercontent.com/84447603/125383230-0645d380-e38f-11eb-83b6-4bf3239976f8.png">
 
 # FEATURES
 
@@ -218,6 +219,8 @@ The reason I went for the imagery used is to capture the visitors attention. On 
 * For the user: Allows the user to know the name of the company. 
 * For the site owner: Getting the company name out there. 
 
+<img width="512" alt="Screenshot 2021-07-13 at 04 02 47" src="https://user-images.githubusercontent.com/84447603/125383364-342b1800-e38f-11eb-8f36-cd22f50831c3.png">
+
 1. Navigation Bar
 
 * The Navigation bar is seen on all 5 pages of the website.
@@ -225,31 +228,40 @@ The reason I went for the imagery used is to capture the visitors attention. On 
 * For the user: Prioritises information for the user that is easily accessible and simple to understand.
 * For the site owner : Allows easy navigation and sections off pages to allow for specific information to be shared. 
 
+<img width="738" alt="Screenshot 2021-07-13 at 04 03 35" src="https://user-images.githubusercontent.com/84447603/125383445-4f962300-e38f-11eb-826d-bc49f2cb62be.png">
 
+1. Landing Page image
+* A fashion image is used to emphasis a fashion event, the white and mustard clothing fit well with the colour theme. 
+* For the user: Allows the user to see this is a brand related to fashion. 
+* For the company: Emphasises a fashion event. 
 
+<img width="1418" alt="Screenshot 2021-07-13 at 04 05 13" src="https://user-images.githubusercontent.com/84447603/125383589-8b30ed00-e38f-11eb-911c-cad7776360b4.png">
 
+1. Our Story
+* This provides information about SWAP SHOP, what it is, how it works and why you would want to swap.
+* For the user: Allows the user to understand what SWAP SHOP is and a brief intro to how it works. 
+* For the company: Provides information about the brand. 
 
+<img width="627" alt="Screenshot 2021-07-13 at 04 06 40" src="https://user-images.githubusercontent.com/84447603/125383718-bf0c1280-e38f-11eb-9161-b8f84784834d.png">
 
+1. Second Image on home page 
+* The image beside our story of the 5 women, is a striking and powerful image, the clothing goes well with the colour scheme.  
+* For the user: Allows the user to see the female empowerment behind SWAP SHOP and that it is also a social event.
+* For the company: Shows girl power and a female owned brand.  
 
-
-1.Landing Page image
-*A fashion image is used to emphasis a fashion event, the white and mustard clothing fit well with the colour theme. 
-*For the user: Allows the user to see this is a brand related to fashion. 
-*For the company: Emphasises a fashion event. 
-
-Our Story
-*This provides information about SWAP SHOP, what it is, how it works and why you would want to swap.
-*For the user: Allows the user to understand what SWAP SHOP is and a brief intro to how it works. 
-*For the company: Provides information about the brand. 
-
-The image beside our story of the 5 women, is a striking and powerful image, the clothing goes well with the theme scheme. 
-*For the user: Allows the user to see the female empowerment behind SWAP SHOP and that it is also a social event.
-*For the company: Shows girl power and a female owned brand.  
+<img width="706" alt="Screenshot 2021-07-13 at 04 08 16" src="https://user-images.githubusercontent.com/84447603/125383841-f7135580-e38f-11eb-8150-7acd938060ff.png">
 
 1. Google map shows the location pin, makes it easily accessible to understand where the location is and to find it simply. 
 
+<img width="151" alt="Screenshot 2021-07-13 at 04 08 59" src="https://user-images.githubusercontent.com/84447603/125383916-11e5ca00-e390-11eb-8523-c018abeebf22.png"> 
+
 1. Location Date and Time: Provides necessary information for upcoming event details. 
 
+1. Our Ethos page
+
+* Why Swap provides information on the benefits of one of our events and the images which go in a sequence from left to right really emphasise the words being spoken. 
+
+<img width="809" alt="Screenshot 2021-07-13 at 04 11 03" src="https://user-images.githubusercontent.com/84447603/125384136-5b361980-e390-11eb-88cc-588833567c4c.png">
 
 
 
